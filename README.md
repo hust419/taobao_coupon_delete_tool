@@ -45,5 +45,4 @@ sh delete.sh 你复制的cURL
 终于清静了
 ![](https://img.alicdn.com/tfs/TB1B_2sDMHqK1RjSZFEXXcGMXXa-1067-267.png)
 
-
-# 还有不会的可以联系我 
+# 运行环境为 MacOS .
