@@ -5,15 +5,15 @@
   
   在手机淘宝上的提示如下，提示的是系统繁忙，实际上是优惠券达到了上限
   
-![full](https://cdog01.alibaba-inc.com/aliwork/L1/280/666/tfsprivate/posts_img_63839_15459749108389.png)
+![](https://cdog01.alibaba-inc.com/aliwork/L1/280/666/tfsprivate/posts_img_63839_15459749108389.png)
 
 在pc上提示如下， 提示还算正确
 
-![pc](https://cdog01.alibaba-inc.com/aliwork/L1/280/666/tfsprivate/posts_img_63839_15459749650755.png)
+![](https://cdog01.alibaba-inc.com/aliwork/L1/280/666/tfsprivate/posts_img_63839_15459749650755.png)
 
 实际上淘宝优惠券的情况 
 
-![f](https://cdog01.alibaba-inc.com/aliwork/L1/280/666/tfsprivate/posts_img_63839_15459750682592.png)
+![](https://cdog01.alibaba-inc.com/aliwork/L1/280/666/tfsprivate/posts_img_63839_15459750682592.png)
 
 
 # 多次反馈无果
