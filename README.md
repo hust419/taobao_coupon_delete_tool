@@ -45,4 +45,5 @@ sh delete.sh 你复制的cURL
 终于清静了
 ![](https://img.alicdn.com/tfs/TB1B_2sDMHqK1RjSZFEXXcGMXXa-1067-267.png)
 
-# 运行环境为 MacOS .
+# 运行环境为 MacOS . 
+ 脚本测试运行环境为MacOS，由于安全问题，脚本暂时不提供web执行服务(shell 新手，不知道脚本有没有远程执行的漏洞), 而且涉及到用户的cookie敏感信息，所以建议自己到本机运行
