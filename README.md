@@ -1,0 +1,2 @@
+# taobao_coupon_delete_tool
+自动删除淘宝店铺优惠券
