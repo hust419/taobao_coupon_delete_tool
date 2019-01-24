@@ -5,15 +5,15 @@
   
   在手机淘宝上的提示如下，提示的是系统繁忙，实际上是优惠券达到了上限
   
-![](https://cdog01.alibaba-inc.com/aliwork/L1/280/666/tfsprivate/posts_img_63839_15459749108389.png)
+![](https://img.alicdn.com/tfs/TB1qczoDNTpK1RjSZFMXXbG_VXa-326-555.png)
 
 在pc上提示如下， 提示还算正确
 
-![](https://cdog01.alibaba-inc.com/aliwork/L1/280/666/tfsprivate/posts_img_63839_15459749650755.png)
+![](https://img.alicdn.com/tfs/TB1ZXriDHPpK1RjSZFFXXa5PpXa-337-206.png)
 
 实际上淘宝优惠券的情况 
 
-![](https://cdog01.alibaba-inc.com/aliwork/L1/280/666/tfsprivate/posts_img_63839_15459750682592.png)
+![](https://img.alicdn.com/tfs/TB1jyzsDMHqK1RjSZFkXXX.WFXa-198-220.png)
 
 
 # 多次反馈无果
@@ -42,6 +42,8 @@ sh delete.sh 你复制的cURL
 
 ![](https://img.alicdn.com/tfs/TB1NQPrDQzoK1RjSZFlXXai4VXa-463-912.png)
 
+终于清静了
+![](https://img.alicdn.com/tfs/TB1B_2sDMHqK1RjSZFEXXcGMXXa-1067-267.png)
 
 
 # 还有不会的可以联系我 
