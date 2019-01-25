@@ -22,7 +22,7 @@
 
 # 使用方法
 第一步，使用电脑，打开taobao.com并且登陆淘宝
-第二步，使用chrome浏览器，打开https://taoquan.taobao.com/coupon/list_my_coupon.htm 查看你的优惠券有多少张
+第二步，使用chrome浏览器，打开https://taoquan.taobao.com/coupon/list_my_coupon.htm?sname=&ctype=0&sortby=&order=desc&page=1 查看你的优惠券有多少张
 第三步，找到curl，方法如图所示。先鼠标右键，点击最下面的检查，然后点击NetWork，然后寻找到
 	![](https://img.alicdn.com/tfs/TB1zh_jDH2pK1RjSZFsXXaNlXXa-1911-760.png)
 	
@@ -35,7 +35,7 @@
 
 第五步，运行脚本 
 
-sh delete.sh 你复制的cURL
+sh delete.sh "你复制的cURL" 务必使用双引号引起来
 
 
 可以看到输出内容, 就代表删除成功了，一次不行，多运行几次就好。
